@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VbpumQtWeoPrDpQAhqBkifFsUJxYtsmAlzllKz+NoVGZGWzniI/iaGgmuGyxExwJRYKuu0O7Vw894r7Gk0OJgQ==",
+  "success": true,
+  "projectFilePath": "/root/code/ilubit/GitHubCSharp/GitHubCSharp.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.5/microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "/root/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/root/.nuget/packages/restclient.net/4.1.0/restclient.net.4.1.0.nupkg.sha512",
+    "/root/.nuget/packages/restclient.net.abstractions/4.1.0/restclient.net.abstractions.4.1.0.nupkg.sha512",
+    "/root/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
